@@ -1,0 +1,2 @@
+# ovm
+Obsidian vault manager
